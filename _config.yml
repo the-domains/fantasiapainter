@@ -1,0 +1,28 @@
+name: FantasiaPainter
+favicon: null
+layout_spectrum: 0.647914647590369
+typography_spectrum: 0.3829370310995728
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.544058381812647
+  lightness: 0.5712351237889379
+  saturation: 0.20143892616033554
+  rhythmicContrast: 0.9129625877831131
+purpose: []
