@@ -1,27 +1,28 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Paint like a pro even if newbie
-datePublished: '2015-12-11T18:27:57.265Z'
-dateModified: '2015-12-11T18:27:38.979Z'
+datePublished: '2015-12-11T18:43:14.399Z'
+dateModified: '2015-12-11T18:42:58.594Z'
 title: Fantasia Painter
 author: []
+sourcePath: _posts/2015-12-11-fantasia-painter.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-11-fantasia-painter.md
-published: true
-url: fantasia-painter/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Fantasia Painter
 
 Paint like a pro even if newbie
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8007f82-5215-48f3-befe-1cf0e9ba9a0a.jpg)
