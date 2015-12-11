@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Paint like a pro even if newbie
-datePublished: '2015-12-11T18:44:03.761Z'
-dateModified: '2015-12-11T18:43:59.172Z'
+datePublished: '2015-12-11T18:47:28.089Z'
+dateModified: '2015-12-11T18:44:54.517Z'
 title: Fantasia Painter
 author: []
 sourcePath: _posts/2015-12-11-fantasia-painter.md
