@@ -1,7 +1,7 @@
 name: FantasiaPainter
 favicon: null
-layout_spectrum: 0.93198
-typography_spectrum: 0.3829370310995728
+layout_spectrum: 0
+typography_spectrum: 0.24233
 cta:
   domain: null
   bucket: null
