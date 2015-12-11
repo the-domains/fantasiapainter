@@ -1,6 +1,6 @@
 name: FantasiaPainter
 favicon: null
-layout_spectrum: 0.647914647590369
+layout_spectrum: 0.93198
 typography_spectrum: 0.3829370310995728
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.544058381812647
+  brandStrength: 0.625
   lightness: 0.5712351237889379
   saturation: 0.20143892616033554
   rhythmicContrast: 0.9129625877831131
